@@ -1,13 +1,13 @@
 {
   "private": true,
   "devDependencies": {
-    "gulp": "^3.8.8"
+    "gulp": "^4.0.2"
   },
   "dependencies": {
     "bootstrap-sass": "^3.0.0",
     "fine-uploader": "^5.16.0",
     "jquery.flot": "^0.8.3",
-    "laravel-elixir": "^4.0.0",
+    "laravel-elixir": "^6.0.0-18",
     "natives": "^1.1.6"
   }
 }
